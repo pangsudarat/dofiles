@@ -1,0 +1,7 @@
+[user]
+	name = sudarat yuboonchoo
+	email = pangsudarat11@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
